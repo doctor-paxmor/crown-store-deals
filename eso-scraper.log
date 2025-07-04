@@ -1,0 +1,321 @@
+2025-07-03 18:38:00,547 - ERROR - DISCORD_WEBHOOK_URL environment variable not set
+2025-07-03 18:38:21,158 - ERROR - DISCORD_WEBHOOK_URL environment variable not set
+2025-07-03 18:40:29,763 - ERROR - DISCORD_WEBHOOK_URL environment variable not set
+2025-07-03 18:40:59,569 - INFO - Loaded 0 previously posted items
+2025-07-03 18:40:59,569 - INFO - Discovering all Crown Store URLs...
+2025-07-03 18:41:06,305 - INFO - Found 113 Crown Store URLs to check
+2025-07-03 18:41:06,305 - INFO - Checking 7 priority URLs first, then 106 remaining URLs
+2025-07-03 18:41:06,305 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/159
+2025-07-03 18:41:10,323 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/159
+2025-07-03 18:41:10,360 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/14442?tanlorin-and-zerithvar
+2025-07-03 18:41:13,001 - INFO - Found 1 FREE! elements on page
+2025-07-03 18:41:13,001 - INFO - Analyzing FREE! element 1:
+2025-07-03 18:41:13,004 - INFO -   Element tag: span
+2025-07-03 18:41:13,011 - INFO -   Element text: 'FREE!
+With ESO Plus Deal'
+2025-07-03 18:41:13,014 - INFO -   Element classes: bright crown-details eso-plus-loyalty
+2025-07-03 18:41:13,023 - INFO -   Parent tag: div
+2025-07-03 18:41:13,026 - INFO -   Parent classes: crowns-price
+2025-07-03 18:41:13,031 - INFO -   ESO Plus loyalty elements (self or ancestors) found: 1
+2025-07-03 18:41:23,092 - INFO - Found 0 elements with both 'FREE!' and 'With ESO Plus Deal'
+2025-07-03 18:41:23,092 - INFO - Proximity analysis - ESO Plus FREE found: True
+2025-07-03 18:41:23,092 - INFO - Item https://www.elderscrollsonline.com/en-us/crownstore/item/14442?tanlorin-and-zerithvar is FREE with ESO Plus (FREE! element has eso-plus-loyalty class)
+2025-07-03 18:41:23,305 - INFO - Found image: https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/8cfae846d6785715a12f9dbcea604c9a.jpg
+2025-07-03 18:41:23,305 - INFO - Found FREE item: TANLORIN AND ZERITH-VAR on https://www.elderscrollsonline.com/en-us/crownstore/category/159
+2025-07-03 18:41:23,891 - INFO - Sent Discord message for: TANLORIN AND ZERITH-VAR (FREE with ESO Plus!)
+2025-07-03 18:41:23,891 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/78
+2025-07-03 18:41:27,516 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/78
+2025-07-03 18:41:27,543 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:41:31,919 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000227D64EA710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/917643492434908bc7df75697484dd0e
+2025-07-03 18:41:35,970 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000227D64EA350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/917643492434908bc7df75697484dd0e
+2025-07-03 18:41:40,028 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000227D655CFC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/917643492434908bc7df75697484dd0e
+2025-07-03 18:42:06,707 - INFO - Loaded 0 previously posted items
+2025-07-03 18:42:06,707 - INFO - Discovering all Crown Store URLs...
+2025-07-03 18:42:14,492 - INFO - Found 113 Crown Store URLs to check
+2025-07-03 18:42:14,492 - INFO - Checking 7 priority URLs first, then 106 remaining URLs
+2025-07-03 18:42:14,492 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/159
+2025-07-03 18:42:18,112 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/159
+2025-07-03 18:42:18,157 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/14442?tanlorin-and-zerithvar
+2025-07-03 18:42:20,688 - INFO - Found 1 FREE! elements on page
+2025-07-03 18:42:20,688 - INFO - Analyzing FREE! element 1:
+2025-07-03 18:42:20,691 - INFO -   Element tag: span
+2025-07-03 18:42:20,698 - INFO -   Element text: 'FREE!
+With ESO Plus Deal'
+2025-07-03 18:42:20,702 - INFO -   Element classes: bright crown-details eso-plus-loyalty
+2025-07-03 18:42:20,710 - INFO -   Parent tag: div
+2025-07-03 18:42:20,713 - INFO -   Parent classes: crowns-price
+2025-07-03 18:42:20,719 - INFO -   ESO Plus loyalty elements (self or ancestors) found: 1
+2025-07-03 18:42:30,764 - INFO - Found 0 elements with both 'FREE!' and 'With ESO Plus Deal'
+2025-07-03 18:42:30,764 - INFO - Proximity analysis - ESO Plus FREE found: True
+2025-07-03 18:42:30,764 - INFO - Item https://www.elderscrollsonline.com/en-us/crownstore/item/14442?tanlorin-and-zerithvar is FREE with ESO Plus (FREE! element has eso-plus-loyalty class)
+2025-07-03 18:42:30,974 - INFO - Found image: https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/8cfae846d6785715a12f9dbcea604c9a.jpg
+2025-07-03 18:42:30,974 - INFO - Found FREE item: TANLORIN AND ZERITH-VAR on https://www.elderscrollsonline.com/en-us/crownstore/category/159
+2025-07-03 18:42:31,339 - INFO - Sent Discord message for: TANLORIN AND ZERITH-VAR (FREE with ESO Plus!)
+2025-07-03 18:42:31,340 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/78
+2025-07-03 18:42:34,770 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/78
+2025-07-03 18:42:34,796 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:42:37,239 - INFO - Found 1 FREE! elements on page
+2025-07-03 18:42:37,239 - INFO - Analyzing FREE! element 1:
+2025-07-03 18:42:37,242 - INFO -   Element tag: span
+2025-07-03 18:42:37,247 - INFO -   Element text: 'FREE!'
+2025-07-03 18:42:37,250 - INFO -   Element classes: bright crown-details
+2025-07-03 18:42:37,258 - INFO -   Parent tag: div
+2025-07-03 18:42:37,262 - INFO -   Parent classes: crowns-price
+2025-07-03 18:42:47,314 - INFO -   ESO Plus loyalty elements (self or ancestors) found: 0
+2025-07-03 18:42:57,331 - INFO - Found 0 elements with both 'FREE!' and 'With ESO Plus Deal'
+2025-07-03 18:42:57,332 - INFO - Proximity analysis - ESO Plus FREE found: False
+2025-07-03 18:42:57,332 - INFO - Item https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer is FREE for everyone (FREE! element does not have eso-plus-loyalty class)
+2025-07-03 18:42:57,544 - INFO - Found image: https://esosslfiles-a.akamaihd.net/ape/uploads/2022/05/3d291ff38374d6d23e08ce8eaad5b547.jpg
+2025-07-03 18:42:57,544 - INFO - Found FREE item: EVENT QUEST: THE UNREFUSABLE OFFER on https://www.elderscrollsonline.com/en-us/crownstore/category/78
+2025-07-03 18:42:58,033 - INFO - Sent Discord message for: EVENT QUEST: THE UNREFUSABLE OFFER (FREE!)
+2025-07-03 18:42:58,033 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/78#quest-starters
+2025-07-03 18:43:01,459 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/78#quest-starters
+2025-07-03 18:43:01,487 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:43:01,487 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/78#currency
+2025-07-03 18:43:04,517 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/78#currency
+2025-07-03 18:43:04,539 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:43:04,539 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/71
+2025-07-03 18:43:08,216 - INFO - Found 19 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/71
+2025-07-03 18:43:08,425 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:43:08,426 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1
+2025-07-03 18:43:12,049 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1
+2025-07-03 18:43:12,075 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 18:43:32,562 - INFO - Item https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners is NOT free - skipping
+2025-07-03 18:43:32,562 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/eso-plus
+2025-07-03 18:43:36,316 - INFO - Found 5 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/eso-plus
+2025-07-03 18:43:36,379 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/13459?molten-demise-arms-pack
+2025-07-03 18:43:53,952 - INFO - Item https://www.elderscrollsonline.com/en-us/crownstore/item/13459?molten-demise-arms-pack is NOT free - skipping
+2025-07-03 18:43:53,952 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62
+2025-07-03 18:43:57,714 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62
+2025-07-03 18:43:57,756 - INFO - Validating item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 18:44:16,771 - INFO - Item https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn is NOT free - skipping
+2025-07-03 18:44:16,771 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/4578?crown-crafting-motif-order-hour-style
+2025-07-03 18:44:37,300 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/4578?crown-crafting-motif-order-hour-style
+2025-07-03 18:44:37,300 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#dark-heart-of-skyrim
+2025-07-03 18:44:41,148 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#dark-heart-of-skyrim
+2025-07-03 18:44:41,178 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 18:44:41,178 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#assistants
+2025-07-03 18:44:55,000 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#assistants
+2025-07-03 18:44:55,000 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#wolves
+2025-07-03 18:45:09,027 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#wolves
+2025-07-03 18:45:09,027 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38
+2025-07-03 18:45:22,805 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38
+2025-07-03 18:45:22,805 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/5#daedric
+2025-07-03 18:45:36,655 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/5#daedric
+2025-07-03 18:45:36,656 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/1904?upriver-striped-sashkilt
+2025-07-03 18:45:56,375 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/1904?upriver-striped-sashkilt
+2025-07-03 18:45:56,375 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#class
+2025-07-03 18:46:10,127 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#class
+2025-07-03 18:46:10,127 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/5
+2025-07-03 18:46:23,693 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/5
+2025-07-03 18:46:23,693 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4
+2025-07-03 18:46:37,262 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4
+2025-07-03 18:46:37,263 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/3#experience
+2025-07-03 18:46:50,960 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/3#experience
+2025-07-03 18:46:50,960 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/56#notable-homes
+2025-07-03 18:47:04,946 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/56#notable-homes
+2025-07-03 18:47:04,946 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52#emotes
+2025-07-03 18:47:18,850 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52#emotes
+2025-07-03 18:47:18,850 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/56#classic-homes
+2025-07-03 18:47:32,395 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/56#classic-homes
+2025-07-03 18:47:32,395 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/71#prologue
+2025-07-03 18:47:35,837 - INFO - Found 19 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/71#prologue
+2025-07-03 18:47:36,032 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:47:36,032 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/7938?furnishing-pack-moonsblessed-oasis
+2025-07-03 18:47:57,097 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/7938?furnishing-pack-moonsblessed-oasis
+2025-07-03 18:47:57,098 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/7936?furnishing-pack-moonbishops-sanctuary
+2025-07-03 18:48:16,274 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/7936?furnishing-pack-moonbishops-sanctuary
+2025-07-03 18:48:16,274 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#camels
+2025-07-03 18:48:29,914 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#camels
+2025-07-03 18:48:29,914 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/141#wood-cutting
+2025-07-03 18:48:43,959 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/141#wood-cutting
+2025-07-03 18:48:43,959 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#apex-rewards
+2025-07-03 18:48:57,762 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#apex-rewards
+2025-07-03 18:48:57,762 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#storage
+2025-07-03 18:49:01,317 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#storage
+2025-07-03 18:49:01,357 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 18:49:01,358 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52#markings
+2025-07-03 18:49:14,967 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52#markings
+2025-07-03 18:49:14,967 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore
+2025-07-03 18:49:29,062 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore
+2025-07-03 18:49:29,062 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/186?crown-supply-kit
+2025-07-03 18:49:48,956 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/186?crown-supply-kit
+2025-07-03 18:49:48,956 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#epic-rewards
+2025-07-03 18:50:03,001 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#epic-rewards
+2025-07-03 18:50:03,002 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/3#bundles
+2025-07-03 18:50:16,482 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/3#bundles
+2025-07-03 18:50:16,483 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/141#mining
+2025-07-03 18:50:29,964 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/141#mining
+2025-07-03 18:50:29,964 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#vvardvarks
+2025-07-03 18:50:43,398 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#vvardvarks
+2025-07-03 18:50:43,398 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/6#outfit-styles
+2025-07-03 18:50:57,871 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/6#outfit-styles
+2025-07-03 18:50:57,871 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/56#staple-homes
+2025-07-03 18:51:11,415 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/56#staple-homes
+2025-07-03 18:51:11,415 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#gates-of-oblivion
+2025-07-03 18:51:14,863 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#gates-of-oblivion
+2025-07-03 18:51:14,890 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 18:51:14,890 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#season-of-the-dragon
+2025-07-03 18:51:17,923 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#season-of-the-dragon
+2025-07-03 18:51:17,947 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 18:51:17,947 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/12300?crown-crafting-motif-clan-dreamcarver
+2025-07-03 18:51:36,979 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/12300?crown-crafting-motif-clan-dreamcarver
+2025-07-03 18:51:36,979 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#service-tokens
+2025-07-03 18:51:50,538 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#service-tokens
+2025-07-03 18:51:50,538 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/5#inventory
+2025-07-03 18:52:04,027 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/5#inventory
+2025-07-03 18:52:04,027 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#houseguests
+2025-07-03 18:52:07,506 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#houseguests
+2025-07-03 18:52:07,543 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 18:52:07,543 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/6
+2025-07-03 18:52:21,059 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/6
+2025-07-03 18:52:21,059 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/17#research
+2025-07-03 18:52:34,789 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/17#research
+2025-07-03 18:52:34,790 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#outfit-slots
+2025-07-03 18:52:48,493 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#outfit-slots
+2025-07-03 18:52:48,493 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#armory-slots
+2025-07-03 18:53:01,718 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#armory-slots
+2025-07-03 18:53:01,718 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#character-slots
+2025-07-03 18:53:14,879 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#character-slots
+2025-07-03 18:53:14,879 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/3
+2025-07-03 18:53:28,591 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/3
+2025-07-03 18:53:28,591 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#accessory-sets
+2025-07-03 18:53:32,319 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#accessory-sets
+2025-07-03 18:53:32,359 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 18:53:32,359 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/3#respecs
+2025-07-03 18:53:45,855 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/3#respecs
+2025-07-03 18:53:45,855 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/141#recalling
+2025-07-03 18:53:59,247 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/141#recalling
+2025-07-03 18:53:59,247 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/5776?manelord-nightmare-senche
+2025-07-03 18:54:17,856 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/5776?manelord-nightmare-senche
+2025-07-03 18:54:17,856 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#living-room-sets
+2025-07-03 18:54:21,490 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#living-room-sets
+2025-07-03 18:54:21,531 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 18:54:21,531 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52#skins
+2025-07-03 18:54:35,082 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52#skins
+2025-07-03 18:54:35,082 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#rams
+2025-07-03 18:54:48,668 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#rams
+2025-07-03 18:54:48,669 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#common-rewards
+2025-07-03 18:55:02,568 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#common-rewards
+2025-07-03 18:55:02,568 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/71#events
+2025-07-03 18:55:06,413 - INFO - Found 19 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/71#events
+2025-07-03 18:55:06,610 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/11331?event-quest-the-unrefusable-offer
+2025-07-03 18:55:06,610 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/13459?molten-demise-arms-pack
+2025-07-03 18:55:20,239 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/13459?molten-demise-arms-pack
+2025-07-03 18:55:20,240 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#quasigriffs
+2025-07-03 18:55:33,886 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#quasigriffs
+2025-07-03 18:55:33,886 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/6749?paleplume-fledgling-gryphon
+2025-07-03 18:55:52,843 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/6749?paleplume-fledgling-gryphon
+2025-07-03 18:55:52,843 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/36
+2025-07-03 18:56:06,451 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/36
+2025-07-03 18:56:06,452 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#inventory
+2025-07-03 18:56:20,361 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#inventory
+2025-07-03 18:56:20,362 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/3#supplies
+2025-07-03 18:56:33,856 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/3#supplies
+2025-07-03 18:56:33,856 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#superior-rewards
+2025-07-03 18:56:47,978 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#superior-rewards
+2025-07-03 18:56:47,978 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52#hair-styles
+2025-07-03 18:57:01,596 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52#hair-styles
+2025-07-03 18:57:01,596 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#bears
+2025-07-03 18:57:15,124 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#bears
+2025-07-03 18:57:15,124 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7
+2025-07-03 18:57:29,291 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7
+2025-07-03 18:57:29,291 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore#search
+2025-07-03 18:57:42,890 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore#search
+2025-07-03 18:57:42,891 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/56
+2025-07-03 18:57:56,580 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/56
+2025-07-03 18:57:56,580 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/11439?quasigriff
+2025-07-03 18:58:15,042 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/11439?quasigriff
+2025-07-03 18:58:15,043 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore#
+2025-07-03 18:58:28,490 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore#
+2025-07-03 18:58:28,490 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52
+2025-07-03 18:58:42,283 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52
+2025-07-03 18:58:42,283 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/10692?sweetwater-cascades
+2025-07-03 18:59:00,954 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/10692?sweetwater-cascades
+2025-07-03 18:59:00,955 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#skyshards
+2025-07-03 18:59:14,619 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#skyshards
+2025-07-03 18:59:14,620 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/6#costumes
+2025-07-03 18:59:28,316 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/6#costumes
+2025-07-03 18:59:28,316 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/185?crown-supply-kit-giantsized
+2025-07-03 18:59:49,140 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/185?crown-supply-kit-giantsized
+2025-07-03 18:59:49,141 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/141
+2025-07-03 19:00:02,764 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/141
+2025-07-03 19:00:02,764 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#bedroom-sets
+2025-07-03 19:00:06,241 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#bedroom-sets
+2025-07-03 19:00:06,281 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 19:00:06,282 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#legendary-rewards
+2025-07-03 19:00:19,961 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#legendary-rewards
+2025-07-03 19:00:19,961 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52#personalities
+2025-07-03 19:00:33,472 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52#personalities
+2025-07-03 19:00:33,472 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#special
+2025-07-03 19:00:37,055 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#special
+2025-07-03 19:00:37,094 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 19:00:37,094 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#collectors-packs
+2025-07-03 19:00:50,730 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#collectors-packs
+2025-07-03 19:00:50,731 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/17#motifs
+2025-07-03 19:01:04,391 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/17#motifs
+2025-07-03 19:01:04,392 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#shadow-over-morrowind
+2025-07-03 19:01:08,556 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#shadow-over-morrowind
+2025-07-03 19:01:08,583 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 19:01:08,584 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/8814?statue-pride-of-alkosh-hero
+2025-07-03 19:01:28,462 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/8814?statue-pride-of-alkosh-hero
+2025-07-03 19:01:28,463 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#horses
+2025-07-03 19:01:41,927 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#horses
+2025-07-03 19:01:41,927 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#radiant-apex-rewards
+2025-07-03 19:01:55,632 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#radiant-apex-rewards
+2025-07-03 19:01:55,632 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#multirider
+2025-07-03 19:02:09,201 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#multirider
+2025-07-03 19:02:09,201 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/6#hats
+2025-07-03 19:02:22,689 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/6#hats
+2025-07-03 19:02:22,689 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/10603?prior-thierric-arms-pack
+2025-07-03 19:02:41,404 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/10603?prior-thierric-arms-pack
+2025-07-03 19:02:41,404 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/5#domestic
+2025-07-03 19:02:55,142 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/5#domestic
+2025-07-03 19:02:55,142 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/14279?dragonclash-living-armor-senche
+2025-07-03 19:03:14,071 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/14279?dragonclash-living-armor-senche
+2025-07-03 19:03:14,071 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#year-two
+2025-07-03 19:03:17,651 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#year-two
+2025-07-03 19:03:17,678 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 19:03:17,678 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#seasons-of-the-worm-cult
+2025-07-03 19:03:20,711 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#seasons-of-the-worm-cult
+2025-07-03 19:03:20,738 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 19:03:20,738 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/item/12306?crown-crafting-motif-kindreds-concord
+2025-07-03 19:03:39,544 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/item/12306?crown-crafting-motif-kindreds-concord
+2025-07-03 19:03:39,545 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore#main-content
+2025-07-03 19:03:53,214 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore#main-content
+2025-07-03 19:03:53,214 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#big-cats
+2025-07-03 19:04:06,716 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#big-cats
+2025-07-03 19:04:06,716 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#fine-rewards
+2025-07-03 19:04:20,399 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#fine-rewards
+2025-07-03 19:04:20,399 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/4#sencheraht
+2025-07-03 19:04:34,098 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/4#sencheraht
+2025-07-03 19:04:34,098 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#limited-time-offers
+2025-07-03 19:04:47,780 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#limited-time-offers
+2025-07-03 19:04:47,780 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/38#akatosh-vs-alduin-crates
+2025-07-03 19:05:00,966 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/38#akatosh-vs-alduin-crates
+2025-07-03 19:05:00,967 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#skill-lines
+2025-07-03 19:05:14,505 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#skill-lines
+2025-07-03 19:05:14,505 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#year-three
+2025-07-03 19:05:18,096 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#year-three
+2025-07-03 19:05:18,121 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 19:05:18,121 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/17
+2025-07-03 19:05:32,019 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/17
+2025-07-03 19:05:32,019 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/7#riding-lessons
+2025-07-03 19:05:45,761 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/7#riding-lessons
+2025-07-03 19:05:45,761 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#legacy-of-the-bretons
+2025-07-03 19:05:49,226 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#legacy-of-the-bretons
+2025-07-03 19:05:49,252 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 19:05:49,252 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/62#kitchen-sets
+2025-07-03 19:05:52,929 - INFO - Found 3 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/62#kitchen-sets
+2025-07-03 19:05:52,962 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/9120?solitude-guard-jorn
+2025-07-03 19:05:52,962 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/1#year-one
+2025-07-03 19:05:56,435 - INFO - Found 2 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/1#year-one
+2025-07-03 19:05:56,457 - INFO - Skipping already processed item: https://www.elderscrollsonline.com/en-us/crownstore/item/14636?fallen-banners
+2025-07-03 19:05:56,457 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/5#exotic
+2025-07-03 19:06:09,909 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/5#exotic
+2025-07-03 19:06:09,909 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/52#adornments
+2025-07-03 19:06:23,611 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/52#adornments
+2025-07-03 19:06:23,612 - INFO - Checking URL: https://www.elderscrollsonline.com/en-us/crownstore/category/17#mimic-stones
+2025-07-03 19:06:37,075 - INFO - Found 0 potential FREE items on https://www.elderscrollsonline.com/en-us/crownstore/category/17#mimic-stones
+2025-07-03 19:06:39,380 - INFO - Found 2 new items, 2 total items tracked
+2025-07-03 19:06:39,381 - INFO - Scraper completed successfully
